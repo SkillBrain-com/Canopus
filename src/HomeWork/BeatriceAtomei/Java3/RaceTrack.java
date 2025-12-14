@@ -2,6 +2,7 @@ package HomeWork.BeatriceAtomei.Java3;
 
 public class RaceTrack {
     public int distance;
+
     public RaceTrack(int distance){
         this.distance = distance;
     }
