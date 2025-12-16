@@ -1,9 +1,6 @@
-package HomeWork.PatriciaDurand.Java2;
+package HomeWork.MadalinaSamoila.Java2;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 
 public class HomeworkJava2 {
 

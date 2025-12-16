@@ -1,6 +1,8 @@
 package HomeWork.PatriciaDurand.Java3;
 
-public class Warrior extends Fighter{
+import HomeWork.MadalinaSamoila.HomeworkJava3.Fighter;
+
+public class Warrior extends Fighter {
 
 //    ex6 Calculate the damage points for a Warrior
     public int damagePoints(Fighter opponent){

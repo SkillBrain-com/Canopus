@@ -1,4 +1,4 @@
-package HomeWork.Madalina Samoila.Java1;
+package HomeWork.MadalinaSamoila.Java1;
 
 import java.util.Scanner;
 

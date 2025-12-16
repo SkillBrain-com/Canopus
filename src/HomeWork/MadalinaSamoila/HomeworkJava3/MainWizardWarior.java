@@ -1,4 +1,4 @@
-package HomeworkJava3;
+package HomeWork.MadalinaSamoila.HomeworkJava3;
 
 public class MainWizardWarior {
     public static void main(String[] args) {

@@ -1,6 +1,8 @@
 package HomeWork.PatriciaDurand.Java3;
 
-public class Wizard extends Fighter{
+import HomeWork.MadalinaSamoila.HomeworkJava3.Fighter;
+
+public class Wizard extends Fighter {
 
 //    ex3 Allow Wizards to prepare a spell
     public boolean spellPrepared = false;

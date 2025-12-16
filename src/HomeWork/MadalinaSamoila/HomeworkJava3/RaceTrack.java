@@ -1,4 +1,4 @@
-package HomeworkJava3;
+package HomeWork.MadalinaSamoila.HomeworkJava3;
 //Ex2
 public class RaceTrack {
 
