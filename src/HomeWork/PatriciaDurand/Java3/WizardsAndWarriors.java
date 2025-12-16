@@ -1,5 +1,7 @@
 package HomeWork.PatriciaDurand.Java3;
 
+import HomeWork.MadalinaSamoila.HomeworkJava3.Fighter;
+
 public class WizardsAndWarriors {
 
     public static void main(String[] args) {

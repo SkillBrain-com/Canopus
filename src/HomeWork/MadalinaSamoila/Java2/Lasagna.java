@@ -1,4 +1,4 @@
-package HomeWork.PatriciaDurand.Java2;
+package HomeWork.MadalinaSamoila.Java2;
 
 public class Lasagna {
 

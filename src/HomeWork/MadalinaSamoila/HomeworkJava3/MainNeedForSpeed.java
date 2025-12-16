@@ -1,4 +1,4 @@
-package HomeworkJava3;
+package HomeWork.MadalinaSamoila.HomeworkJava3;
 
 public class MainNeedForSpeed {
     public static void main(String[] args) {
