@@ -1,11 +1,9 @@
-package Java2;
+package HomeWork.PatriciaDurand.Java2;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
-
-import static Java1.Homework1.Ex1;
 
 public class HomeworkJava2 {
 
